@@ -1,0 +1,21 @@
+{
+  "name": "es7",
+  "version": "1.0.0",
+  "description": "Some ES7 features",
+  "main": "es7.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javascipt/es7.git"
+  },
+  "keywords": [
+    "ES7",
+    "Ecmascript",
+    "Ecmascript 7"
+  ],
+  "author": "Khalid REHIOUI <Array.prototype@gmail.com> (http://github.com/javascipt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javascipt/es7/issues"
+  },
+  "homepage": "https://github.com/Javascipt/es7#readme"
+}
